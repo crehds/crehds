@@ -14,24 +14,17 @@ Products built for clients and running in production.
 | [Automotriz MGRL](https://app.automotrizmgrl.com) | Management system for an auto repair shop: clients, vehicles, maintenance packages, and services scheduled by mileage | NestJS · TypeScript · MySQL · Redis · BullMQ · React · Docker · AWS |
 | [Nidito](https://somosnidito.com) | Mobile-first marketplace in Peru for secondhand baby and maternity items, with seller profiles, ratings, and in-app messaging | TanStack Start · React · TypeScript · Supabase · Cloudflare Workers |
 
-## Ruby on Rails
-
-Both projects are getting an updated release soon.
+## Projects
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
 | [organizador](https://github.com/crehds/organizador) | Task organizer with categories, participants, notes, and role-based access | Rails 8 · PostgreSQL · Hotwire · Devise · CanCanCan |
 | [eatIt](https://github.com/crehds/eatIt) | REST API for products and orders, documented with Swagger UI | Rails 8 · PostgreSQL · RSpec · rswag (OpenAPI) |
-
-## Personal projects
-
-| Project | What it does | Live |
-|---------|--------------|------|
-| [pysa](https://github.com/crehds/pysa) | Ranking app for Pysa players: React front end with an Express and MongoDB API | [pysa.vercel.app](https://pysa.vercel.app/) |
-| [expresion-latina](https://github.com/crehds/expresion-latina) | Mobile-first web app for a dance academy: weekly class schedule, dance genres, and teachers | [expresion-latina.vercel.app](https://expresion-latina.vercel.app/) |
-| [gameWithKeyboard](https://github.com/crehds/gameWithKeyboard) | Simon-style keyboard memory game built with React and TypeScript | [game-with-keyboard.vercel.app](https://game-with-keyboard.vercel.app/) |
-| [bachatealo](https://github.com/crehds/bachatealo) | Landing page for the Bachatealo dance community | [bachatealo.carlos15erh.workers.dev](https://bachatealo.carlos15erh.workers.dev/) |
-| [portfolio-project](https://github.com/crehds/portfolio-project) | My portfolio, built with Astro on Cloudflare Workers | [portfolio-project.carlos15erh.workers.dev](https://portfolio-project.carlos15erh.workers.dev/) |
+| [pysa](https://github.com/crehds/pysa) · [live](https://pysa.vercel.app/) | Ranking app for Pysa players | React · Express · MongoDB |
+| [expresion-latina](https://github.com/crehds/expresion-latina) · [live](https://expresion-latina.vercel.app/) | Mobile-first web app for a dance academy: weekly class schedule, dance genres, and teachers | React · React Router · Supabase |
+| [gameWithKeyboard](https://github.com/crehds/gameWithKeyboard) · [live](https://game-with-keyboard.vercel.app/) | Simon-style keyboard memory game | React · TypeScript · styled-components |
+| [bachatealo](https://github.com/crehds/bachatealo) · [live](https://bachatealo.carlos15erh.workers.dev/) | Landing page for the Bachatealo dance community | React · Vite |
+| [portfolio-project](https://github.com/crehds/portfolio-project) · [live](https://portfolio-project.carlos15erh.workers.dev/) | My portfolio | Astro · Cloudflare Workers |
 
 ## Stack
 
